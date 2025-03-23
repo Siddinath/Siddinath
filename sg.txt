@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dr. Siddinath Gyawali</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; text-align: center; }
+        header { background: #0073e6; color: white; padding: 20px; }
+        section { padding: 20px; max-width: 800px; margin: auto; text-align: left; }
+        img { max-width: 200px; border-radius: 10px; display: block; margin: 0 auto; }
+        footer { background: #333; color: white; text-align: center; padding: 10px; position: fixed; bottom: 0; width: 100%; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Dr. Siddinath Gyawali</h1>
+        <p>Medical Officer | Researcher | Educator</p>
+    </header>
+    
+    <section>
+        <h2>About Me</h2>
+        <img src="Picture1.png" alt="Dr. Siddinath Gyawali">
+        <p>I graduated with an MBBS from Maharajgunj Medical Campus, IOM, Tribhuvan University, and currently work as a Medical Officer at Gulmi Durbar Basic Hospital, Nepal. I have a strong passion for medical research, education, and literature.</p>
+    </section>
+
+    <section>
+        <h2>Experience</h2>
+        <ul>
+            <li>Medical Officer at Gulmi Durbar Basic Hospital (2025 - Present)</li>
+            <li>Medical Officer at Gulmi Hospital Tamghas (2024 - 2025)</li>
+            <li>Teacher at Yeti Health Science Academy (2022 - 2023)</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Research & Publications</h2>
+        <p>Published multiple research articles, including studies on cancer, sleep disorders, and medical education.</p>
+    </section>
+    
+    <section>
+        <h2>Contact</h2>
+        <p>Phone: +977-9847571051</p>
+        <p>Email: sirdhar.gyawali@gmail.com</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Dr. Siddinath Gyawali</p>
+    </footer>
+</body>
+</html>
